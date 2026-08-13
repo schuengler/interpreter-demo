@@ -1,0 +1,6 @@
+MOV 5,0
+MOV 3,1
+ADD 0,1,2
+MOV 2,3
+MUL 2,3,4
+STA 4,0
